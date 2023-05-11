@@ -2,7 +2,8 @@
 <h1 align="left"><img src="/wave.gif" width="30px">Hello There, I'm <a href="https://portalx.live" target="_blank">Tanmay Jain.</a></h1>
 
 <h3 align="left">👀 I’m interested in Cyber Security and Programming.</h3>
-<h3 align="left">🌱 I’m currently persuing B.Tech in IT.</h3>
+<h3 align="left">🌱 I’m currently working as software devloper at Naggaro.</h3>
+<h3 align="left">👨🏻‍💻 Open for techy and geeky collabs. Ping!</h3>
 
 <a target="_blank" href="https://linkedin.com/in/tj07/" target="_blank">
 <img src="https://img.shields.io/badge/-tj07-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/tj07/" alt="Linkedin Badge"></a>
