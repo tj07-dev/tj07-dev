@@ -1,5 +1,5 @@
 
-<h1 align="left"><img src="/wave.gif" width="30px">Hello There, I'm <a href="https://portalx.live" target="_blank">Tanmay Jain.</a></h1>
+<h1 align="left"><img src="/wave.gif" width="30px">Hello There, I'm Tanmay Jain.</h1>
 
 <h3 align="left">👀 I’m interested in Cyber Security and Programming.</h3>
 <h3 align="left">🌱 I’m currently working as software devloper at Naggaro.</h3>
